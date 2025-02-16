@@ -21,8 +21,8 @@
 ## 🏗️ 설치 및 실행 방법
 ### 1️⃣ 프로젝트 클론
 ```bash
-git clone https://github.com/your-repo/AI-Rental-Agent.git
-cd AI-Rental-Agent
+git clone https://github.com/Themath93/FindMyHouseAI.git
+cd FindMyHouseAI
 ```
 
 ### 2️⃣ 가상 환경 설정 (선택 사항)
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Streamlit 앱 실행
 ```bash
-streamlit run src/streamlit_app.py
+streamlit run main.py
 ```
 
 ## 📊 데이터 처리 파이프라인
